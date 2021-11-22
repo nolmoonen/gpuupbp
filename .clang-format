@@ -1,0 +1,13 @@
+ColumnLimit: 120
+AlwaysBreakTemplateDeclarations: Yes
+IndentWidth: 4
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterFunction: true
+AllowAllArgumentsOnNextLine: true
+AllowAllParametersOfDeclarationOnNextLine: true
+BinPackParameters: false
+BinPackArguments: false
+AllowShortIfStatementsOnASingleLine: true
+AlwaysBreakAfterReturnType: None
+PointerAlignment: Left

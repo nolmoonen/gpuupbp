@@ -1,0 +1,70 @@
+# soap bottom
+newmtl houbaDole
+Kd 0 0 0
+Ns 6.39832
+
+# glass wine
+newmtl skloVino
+Kd 0 0 0
+Ns 18.5613
+
+# medium wine
+newmtl mediumVino
+Kd 0 0 0
+Ns 18.5613
+
+# background
+newmtl Pozadi2
+Kd 0.2627 0.2627 0.2627
+Ns 18.5613
+
+# background
+newmtl Pozadi
+Kd 0.2627 0.2627 0.2627
+Ns 18.5613
+
+# soap top
+newmtl houbaNahore
+Kd 0 0 0
+Ni 1.52
+
+# glass cylinder
+newmtl skloValec
+Kd 0 0 0
+Ns 18.5613
+
+# glass pitcher
+newmtl skloDzban
+Kd 0 0 0
+Ns 18.5613
+
+# medium pitcher (oil)
+newmtl mediumDzban
+Kd 0 0 0
+Ns 18.5613
+
+# medium cylinder (juice)
+newmtl mediumSklenice
+Kd 0 0 0
+Ns 18.5613
+
+# candle
+newmtl svicka
+Kd 0 0 0
+Ns 2.02139
+Ni 1.52
+
+# wick
+newmtl knot
+Kd 0.129412 0.101961 0.0745098
+Ns 18.5613
+
+# light
+newmtl Svetlo2
+Kd 0 0 0
+Ns 18.5613
+
+# light
+newmtl Svetlo
+Kd 0 0 0
+Ns 18.5613

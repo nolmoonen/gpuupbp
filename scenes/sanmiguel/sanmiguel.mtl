@@ -1,0 +1,3161 @@
+# Blender MTL File: 'None'
+# Material Count: 287
+
+newmtl CafeChair_Metal
+Ns 255.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.480000 0.480000 0.480000
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_0
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.100000 0.100000 0.100000
+Ks 0 0 0
+
+newmtl material_032
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\individual_b.png
+Kd 0.560819 0.498476 0.432516
+Ks 0.000000 0.000000 0.000000
+
+newmtl material_033
+Kd 0 0 0
+Ns 18.5613
+
+newmtl material_034
+Ns 255.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\ceramic_tile.png
+Kd 0.425336 0.402135 0.386048
+Ks 0.196078 0.196078 0.196078
+
+newmtl material_035
+Kd 0 0 0
+Ns 2.02139
+
+newmtl material_036
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.121569 0.113726 0.101961
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_038
+Ns 255.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.086274 0.082353 0.074510
+Ks 0.402614 0.402614 0.402614
+
+newmtl material_039
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_PITTED.png
+Kd 0.776471 0.749020 0.709804
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_040
+Ns 255.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.301950 0.875973 0.726676
+Ks 0.634866 0.634866 0.634866
+
+newmtl material_041
+Kd 0 0 0
+Ns 18.5613
+
+newmtl material_042
+Kd 0 0 0
+Ns 18.5613
+
+newmtl material_1
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_jardinera_1_displacement_2.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\jardinera_1_color.png
+Kd 0.533839 0.526427 0.483067
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_10
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\losa.png
+Kd 0.868958 0.868958 0.868958
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_11
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_moldura2piso_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\moldura2piso_color.png
+Kd 0.651260 0.580474 0.553866
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_12
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.750000 0.750000 0.750000
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_123
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_Forja_Macetas_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Forja_Macetas.png
+Kd 0.361341 0.255184 0.210863
+Ks 0.006588 0.006588 0.006588
+
+newmtl material_124
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_Maceta_A_Bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Maceta_A_Color.png
+Kd 0.585532 0.401910 0.301581
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_125
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_Maceta_A_Bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Maceta_A2_Color.png
+Kd 0.505087 0.356439 0.299111
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_126
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_Maceta_B_Bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Maceta_B_Color.png
+Kd 0.523658 0.365731 0.280616
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_127
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_Maceta_B_Bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Maceta_B2_Color.png
+Kd 0.518694 0.381243 0.346563
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_128
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_Maceta_C_Bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Maceta_C_Color.png
+Kd 0.564747 0.404263 0.318805
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_129
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_Maceta_C_Bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Maceta_C2_Color.png
+Kd 0.573788 0.404921 0.329423
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_13
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.549020 0.549020 0.549020
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_130
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_Maceta_D_Bump_0.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Maceta_D2_Color_0.png
+Kd 0.483224 0.346124 0.297723
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_131
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\dracaena_fragrans_leaf.png
+Kd 0.734924 0.725560 0.341389
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_132
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\BS01brk.png
+Kd 0.358093 0.343353 0.309905
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_133
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\BS01lef.png
+Kd 0.371549 0.282625 0.209480
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_134
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\BS01flo1.png
+Kd 0.299909 0.270289 0.217063
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_135
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\BS01flo2.png
+Kd 0.240015 0.212275 0.240213
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_136
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\aglaonema_leaf.png
+Kd 0.504501 0.666882 0.269155
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_137
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\aglaonema_bark.png
+Kd 0.402902 0.501924 0.260672
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_138
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL13pet2.png
+Kd 0.818823 0.312756 0.267639
+Ks 0.017356 0.017356 0.017356
+
+newmtl material_139
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.445692 0.119083 0.004669
+Ks 0.007593 0.007593 0.007593
+
+newmtl material_14
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_piso_rustico_displace2.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\piso_rustico.png
+map_Ks C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\piso_rustico_Spec.png
+Kd 0.410702 0.328879 0.301129
+Ks 0.274327 0.274327 0.274327
+
+newmtl material_140
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.008911 0.377880 0.531663
+Ks 0.012246 0.012246 0.012246
+
+newmtl material_141
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL16stm.png
+Kd 0.275400 0.343628 0.147035
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_142
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL16lef1.png
+Kd 0.222540 0.247664 0.136461
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_143
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL16pet1.png
+Kd 0.693787 0.165284 0.269421
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_144
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL16lef3.png
+Kd 0.331922 0.486482 0.270780
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_145
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\TR14lef1.png
+Kd 0.405018 0.449357 0.253193
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_146
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\ampelopsis_brevipedunculata_bark.png
+Kd 0.329965 0.201164 0.126209
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_147
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP19stm1.png
+Kd 0.289647 0.354022 0.070273
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_148
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP19stm2.png
+Kd 0.404703 0.366940 0.128042
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_149
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP19lef2.png
+Kd 0.309747 0.371101 0.059035
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_15
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\madera_triplay_01.png
+Kd 0.358249 0.248599 0.202676
+Ks 0.004549 0.004549 0.004549
+
+newmtl material_150
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP19lef3.png
+Kd 0.373287 0.419783 0.219861
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_151
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP19lef2.png
+Kd 0.309747 0.371101 0.059035
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_152
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL15lef1.png
+Kd 0.167215 0.277596 0.005391
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_153
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL15cnt2.png
+Kd 0.312547 0.365807 0.175346
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_154
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL15stm.png
+Kd 0.585453 0.592586 0.001067
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_155
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL15pet2.png
+Kd 0.778915 0.697559 0.232140
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_156
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL15lef2.png
+Kd 0.435045 0.510065 0.133504
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_157
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL15cnt1.png
+Kd 0.636344 0.495232 0.010801
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_158
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL15lef1.png
+Kd 0.167215 0.277596 0.005391
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_159
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL15lef2.png
+Kd 0.435045 0.510065 0.133504
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_16
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\rust_a1.png
+Kd 0.456383 0.431604 0.413403
+Ks 0.000000 0.000000 0.000000
+
+newmtl material_160
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL15pet2.png
+Kd 0.778915 0.697559 0.232140
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_161
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP07lef1.png
+Kd 0.568395 0.388889 0.266483
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_162
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP07stm1.png
+Kd 0.775853 0.749423 0.686195
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_163
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP07lef2.png
+Kd 0.527161 0.291341 0.190218
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_164
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP07stm2.png
+Kd 0.536563 0.437030 0.394832
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_165
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL11pet1.png
+Kd 0.527812 0.383676 0.706632
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_166
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL11pet2.png
+Kd 0.523428 0.396783 0.710134
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_167
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL11sta.png
+Kd 0.894779 0.798164 0.662289
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_168
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL11pet3.png
+Kd 0.516745 0.380835 0.694681
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_169
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL11pet4.png
+Kd 0.500267 0.326914 0.760219
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_17
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_a.png
+Kd 0.225415 0.236832 0.260683
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_170
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL11lef1.png
+Kd 0.354199 0.464272 0.093623
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_171
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL11lef2.png
+Kd 0.272344 0.380273 0.013578
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_172
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL11stm.png
+Kd 0.259612 0.373930 0.254088
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_173
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL11pet1.png
+Kd 0.527812 0.383676 0.706632
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_174
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL11pet2.png
+Kd 0.523428 0.396783 0.710134
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_175
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL11pet3.png
+Kd 0.516745 0.380835 0.694681
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_176
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL11pet4.png
+Kd 0.500267 0.326914 0.760219
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_177
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL11lef1.png
+Kd 0.354199 0.464272 0.093623
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_178
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP17lef1.png
+Kd 0.469937 0.573875 0.165465
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_179
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP17lef2.png
+Kd 0.440813 0.515415 0.245804
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_18
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_muros_b1.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_b1.png
+Kd 0.258820 0.265734 0.281313
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_180
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP17stm.png
+Kd 0.265505 0.369103 0.222263
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_181
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_HP11stm.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP11stm.png
+Kd 0.679613 0.532383 0.396916
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_182
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_hp13lef1_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP11lef2.png
+Kd 0.375080 0.434361 0.248842
+Ks 0.004706 0.004706 0.004706
+
+newmtl material_183
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL13pet1.png
+Kd 0.914088 0.345975 0.314013
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_184
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL13pet2.png
+Kd 0.818823 0.312756 0.267639
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_185
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL13pet3.png
+Kd 0.822598 0.315488 0.269733
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_186
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL13stm.png
+Kd 0.272236 0.367365 0.122165
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_187
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL13lef5.png
+Kd 0.683509 0.281346 0.090505
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_188
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL13lef4.png
+Kd 0.393990 0.405528 0.042634
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_189
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL13lef1.png
+Kd 0.162763 0.249012 0.069263
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_19
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_c2.png
+Kd 0.191704 0.196951 0.202189
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_190
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\elaeagnus_umbellate_bark.png
+Kd 0.323349 0.346692 0.253536
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_191
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\impatiens_newguinea_hybrids_petal.png
+Kd 0.794260 0.203311 0.232599
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_192
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\citrus_limon_leaf.png
+Kd 0.249400 0.341166 0.148192
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_193
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP13stm2.png
+Kd 0.468535 0.531667 0.290316
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_194
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL13lef1.png
+Kd 0.162763 0.249012 0.069263
+Ks 0.023735 0.023735 0.023735
+
+newmtl material_195
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP13lef2.png
+Kd 0.381604 0.434001 0.294641
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_196
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP13stm2.png
+Kd 0.468535 0.531667 0.290316
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_197
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP13lef3.png
+Kd 0.391700 0.449714 0.295105
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_198
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\BS04lef.png
+Kd 0.310378 0.395740 0.173828
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_199
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\BS04flo.png
+Kd 0.927162 0.878310 0.886544
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_2
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\cantera_naranja_liso.png
+Kd 0.670234 0.559788 0.528912
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_20
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_f.png
+Kd 0.023193 0.019524 0.015714
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_200
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\BS04brk.png
+Kd 0.575575 0.545234 0.516272
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_201
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL12lef1.png
+Kd 0.383240 0.402972 0.141602
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_202
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL12pet2.png
+Kd 0.979680 0.761534 0.479970
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_203
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL12pis1.png
+Kd 0.949197 0.701033 0.804677
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_204
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL12sta1.png
+Kd 0.286752 0.105780 0.113503
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_205
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL12stm.png
+Kd 0.205300 0.304277 0.138673
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_206
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL12pis1.png
+Kd 0.949197 0.701033 0.804677
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_207
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL12pet1.png
+Kd 0.966267 0.781132 0.506346
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_208
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL12stm.png
+Kd 0.205300 0.304277 0.138673
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_209
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP01stm1.png
+Kd 0.481901 0.225491 0.213175
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_21
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_e.png
+Kd 0.247127 0.239987 0.238767
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_210
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP01stm2.png
+Kd 0.410852 0.481059 0.213306
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_211
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP01stm1.png
+Kd 0.481901 0.225491 0.213175
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_212
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL16pet1.png
+Kd 0.693787 0.165284 0.269421
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_213
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP01stm1.png
+Kd 0.481901 0.225491 0.213175
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_214
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP01stm2.png
+Kd 0.410852 0.481059 0.213306
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_215
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17lef6.png
+Kd 0.306819 0.072795 0.058823
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_216
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP01lef2.png
+Kd 0.318029 0.413523 0.134521
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_217
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP01lef1.png
+Kd 0.329686 0.420797 0.130482
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_218
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP01pet3.png
+Kd 0.575104 0.408691 0.270491
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_219
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.054910 0.151900 0.052350
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_22
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_d.png
+Kd 0.276519 0.284771 0.305536
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_220
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL04lef1.png
+Kd 0.253385 0.287860 0.202972
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_221
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL04lef2.png
+Kd 0.142158 0.207002 0.054065
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_222
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL04pet1.png
+Kd 0.925155 0.471719 0.839370
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_223
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL04cnt2.png
+Kd 0.326822 0.398064 0.143191
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_224
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL04cnt1.png
+Kd 0.776819 0.616383 0.090559
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_225
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL04stm.png
+Kd 0.304737 0.380918 0.162696
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_226
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\TR02lef5.png
+Kd 0.338602 0.338904 0.114787
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_227
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\quercus_rubra_bark.png
+Kd 0.429205 0.419025 0.279966
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_228
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL19pe13.png
+Kd 0.783890 0.667390 0.860570
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_229
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL19pe16.png
+Kd 0.738893 0.700585 0.717979
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_23
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_g.png
+Kd 0.229176 0.239554 0.260913
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_230
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL19pe14.png
+Kd 0.779001 0.744177 0.747826
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_231
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL19pe15.png
+Kd 0.781467 0.737196 0.738155
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_232
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL19lef4.png
+Kd 0.376402 0.445331 0.182708
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_233
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL19lef2.png
+Kd 0.369622 0.436929 0.175492
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_234
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL19lef3.png
+Kd 0.383153 0.449607 0.199461
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_235
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL19stm.png
+Kd 0.255909 0.397502 0.184394
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_236
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\HP04lef2.png
+Kd 0.698313 0.341373 0.276518
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_237
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\zebrina_pendula_bark.png
+Kd 0.411196 0.374080 0.347574
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_238
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\BL05lef2.png
+Kd 0.445583 0.551355 0.254776
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_239
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\hypoestes_phyllostachya_bark.png
+Kd 0.321539 0.299933 0.229106
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_24
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_h.png
+Kd 0.282244 0.294564 0.330465
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_240
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL29cnt1.png
+Kd 0.580190 0.461780 0.245080
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_241
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL29cnt2.png
+Kd 0.696686 0.762616 0.292449
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_242
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL29lef.png
+Kd 0.233841 0.160174 0.022991
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_243
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL29twg.png
+Kd 0.542924 0.080161 0.146704
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_244
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL29pet1.png
+Kd 0.589749 0.192143 0.217235
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_245
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL29pet2.png
+Kd 0.728014 0.173539 0.257777
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_246
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL29stm1.png
+Kd 0.274657 0.259398 0.115190
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_247
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL29twg.png
+Kd 0.542924 0.080161 0.146704
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_248
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL29stm2.png
+Kd 0.671796 0.604437 0.205160
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_249
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL29lef.png
+Kd 0.233841 0.160174 0.022991
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_25
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_l.png
+Kd 0.496133 0.376483 0.293491
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_250
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL29pet2.png
+Kd 0.728014 0.173539 0.257777
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_251
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17lef1.png
+Kd 0.213877 0.247718 0.128868
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_252
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17lef2.png
+Kd 0.160901 0.165140 0.090465
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_253
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17pet5.png
+Kd 0.870355 0.229974 0.077783
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_254
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17stm.png
+Kd 0.442142 0.226718 0.176656
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_255
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17lef6.png
+Kd 0.306819 0.072795 0.058823
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_256
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17cnt.png
+Kd 0.312460 0.271183 0.119235
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_257
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17lef3.png
+Kd 0.150672 0.185439 0.136663
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_258
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17pet1.png
+Kd 0.734080 0.334622 0.067960
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_259
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17stm.png
+Kd 0.442142 0.226718 0.176656
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_26
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_j.png
+Kd 0.115581 0.123576 0.135123
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_260
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17cnt.png
+Kd 0.312460 0.271183 0.119235
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_261
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17lef5.png
+Kd 0.223942 0.302599 0.042449
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_262
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17lef2.png
+Kd 0.160901 0.165140 0.090465
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_263
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL17pet2.png
+Kd 0.568931 0.133314 0.088159
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_264
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\FL03lef1.png
+Kd 0.409679 0.479091 0.171555
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_265
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\fittonia_verschaffeltii_bark.png
+Kd 0.420090 0.528772 0.213288
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_266
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\EU15lef.png
+Kd 0.492798 0.534072 0.297643
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_267
+Ns 255.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.480000 0.480000 0.480000
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_268
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_Fierro_A_Bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Fierro_A.png
+map_Ks C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Fierro_A_Bump.png
+Kd 0.289682 0.276258 0.268581
+Ks 0.764618 0.764618 0.764618
+
+newmtl material_269
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_silla_d_piel_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\silla_d_piel.png
+Kd 0.349004 0.282151 0.255619
+Ks 0.003137 0.003137 0.003137
+
+newmtl material_27
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_l.png
+Kd 0.496133 0.376483 0.293491
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_270
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_WOOD08_Bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\WOOD08.png
+Kd 0.331340 0.217463 0.172824
+Ks 0.048000 0.048000 0.048000
+
+newmtl material_271
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_WOOD08_Bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\WOOD08.png
+Kd 0.331340 0.217463 0.172824
+Ks 0.048734 0.048734 0.048734
+
+newmtl material_272
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\tapa_talabera.png
+Kd 0.804293 0.707000 0.584638
+Ks 0.000000 0.000000 0.000000
+
+newmtl material_273
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_WOOD08_Bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\WOOD08.png
+Kd 0.331340 0.217463 0.172824
+Ks 0.048101 0.048101 0.048101
+
+newmtl material_274
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\tela_mesa_d.png
+Kd 0.758754 0.467237 0.083975
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_275
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\tela_mesa_b.png
+Kd 0.406135 0.485783 0.544385
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_276
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_WOOD08_Bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\WOOD08.png
+Kd 0.331340 0.217463 0.172824
+Ks 0.048627 0.048627 0.048627
+
+newmtl material_277
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_Finishes.Flooring.Carpet.Loop.5.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Finishes.Flooring.Carpet.Loop.5.png
+Kd 0.805746 0.799098 0.761535
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_278
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_bwk_1024_Bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\BWK_1024.png
+map_Ks C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\bwk_1024_Spec2.png
+Kd 0.401716 0.294730 0.233137
+Ks 0.049718 0.049718 0.049718
+
+newmtl material_279
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_tela_blanca.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\tela_blanca.png
+Kd 0.736597 0.726899 0.679342
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_28
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_m.png
+Kd 0.077113 0.059780 0.046653
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_280
+Ns 4.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_Fierro_A_Bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Fierro_A.png
+Kd 0.289682 0.276258 0.268581
+Ks 0.080000 0.080000 0.080000
+
+newmtl material_281
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\wood.3.Bubinga.png
+Kd 0.563227 0.355899 0.234255
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_282
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\tela_silla_b.png
+Kd 0.205899 0.329273 0.426792
+Ks 0.000000 0.000000 0.000000
+
+newmtl material_284
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Vigas_B.png
+Kd 0.520305 0.329272 0.208020
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_285
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\BWK_1024.png
+Kd 0.401716 0.294730 0.233137
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_286
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\tela_silla_b.png
+Kd 0.205899 0.329273 0.426792
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_287
+Ns 255.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\plato_a.png
+Kd 0.605843 0.583305 0.606108
+Ks 0.196078 0.196078 0.196078
+
+newmtl material_29
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_n.png
+Kd 0.191523 0.202451 0.203851
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_3
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\moldura_volado.png
+Kd 0.679826 0.601951 0.569155
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_30
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_b.png
+Kd 0.570261 0.554327 0.596480
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_31
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_p_.png
+Kd 0.330320 0.322853 0.327042
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_32
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_q3.png
+Kd 0.163728 0.169970 0.188900
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_33
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_q.png
+Kd 0.474628 0.471694 0.507482
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_34
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_q4.png
+Kd 0.164722 0.171310 0.189740
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_35
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\techo.png
+Kd 0.761614 0.745164 0.703589
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_36
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\052terresable.png
+Kd 0.234117 0.201045 0.153707
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_37
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_q_patio2.png
+Kd 0.394849 0.416264 0.404830
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_39
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_arcos_lisos_2_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\arcos_lisos_2_color.png
+Kd 0.532392 0.519313 0.497150
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_4
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_moldura_techo_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\moldura_techo.png
+Kd 0.659525 0.596698 0.552371
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_40
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_arcos_lisos_3_bump_1.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\arcos_lisos_3_color_1.png
+Kd 0.529869 0.518378 0.512565
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_41
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_b2.png
+Kd 0.264404 0.270997 0.287165
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_42
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\madera_rustica_2.png
+Kd 0.373484 0.355078 0.339539
+Ks 0.001725 0.001725 0.001725
+
+newmtl material_43
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\madera_rustica_2.png
+Kd 0.373484 0.355078 0.339539
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_44
+Ns 3.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Maceta_D_Bump_0.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\muros_k.png
+Kd 0.137648 0.146952 0.165746
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_45
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\concreto_01.png
+Kd 0.607758 0.615493 0.601039
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_46
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_vigas_a2_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Vigas_A2.png
+Kd 0.378788 0.314252 0.254034
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_47
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\techo_01.png
+Kd 0.816238 0.801568 0.768934
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_48
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_piso_patio_exterior_displace_inv.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\piso_patio_exterior.png
+Kd 0.552064 0.557316 0.549953
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_49
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\fuente_piedra_01.png
+Kd 0.562359 0.558123 0.532491
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_5
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_escalera_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\escalera_color.png
+Kd 0.519158 0.479606 0.424089
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_51
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_arco_frente_displace_inv.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\arco_frente.png
+Kd 0.651337 0.584959 0.540544
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_52
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.337255 0.286275 0.223529
+Ks 0.017569 0.017569 0.017569
+
+newmtl material_53
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\D30_Smiguel_2003_7785.png
+Kd 0.373180 0.288242 0.232946
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_54
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\0001_carros.png
+Kd 0.655908 0.627336 0.577819
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_55
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\D30_Smiguel_2003_7815.png
+Kd 0.439252 0.468095 0.543120
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_56
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\D30_Smiguel_2003_7812.png
+Kd 0.433836 0.418928 0.384855
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_57
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\027_Cola_Caballo_06-30-1997.png
+Kd 0.406065 0.353243 0.238541
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_58
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\D30_Smiguel_2003_7812.png
+Kd 0.433836 0.418928 0.384855
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_59
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\D30_Smiguel_2003_7843.png
+Kd 0.481665 0.248663 0.037280
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_6
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\pared_barro_afinado.png
+Kd 0.670570 0.437182 0.305640
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_60
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\D30_Smiguel_2003_7785.png
+Kd 0.373180 0.288242 0.232946
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_61
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\D30_Smiguel_2003_7758.png
+Kd 0.587233 0.318554 0.179415
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_62
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\D30_Smiguel_2003_7843.png
+Kd 0.481665 0.248663 0.037280
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_63
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\D30_Smiguel_2003_7833.png
+Kd 0.474200 0.435024 0.420333
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_64
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\D30_Smiguel_2003_7768.png
+Kd 0.456516 0.266771 0.234736
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_65
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\D30_Smiguel_2003_7833.png
+Kd 0.474200 0.435024 0.420333
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_66
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\D30_Smiguel_2003_7833.png
+Kd 0.474200 0.435024 0.420333
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_67
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\D30_Smiguel_2003_7833.png
+Kd 0.474200 0.435024 0.420333
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_68
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\madera_marcos.png
+Kd 0.376875 0.277081 0.197102
+Ks 0.006275 0.006275 0.006275
+
+newmtl material_69
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_postes_barandal_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\postes_barandal_color.png
+Kd 0.565227 0.404245 0.282312
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_7
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\techo.png
+Kd 0.761614 0.745164 0.703589
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_70
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\piso_patio_exterior2.png
+Kd 0.630727 0.616161 0.587471
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_72
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\rust_a1.png
+Kd 0.456383 0.431604 0.413403
+Ks 0.000000 0.000000 0.000000
+
+newmtl material_73
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_rust_detalle_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\rust_detalle.png
+Kd 0.397088 0.294776 0.241388
+Ks 0.000000 0.000000 0.000000
+
+newmtl material_74
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\madera_barandal_esc_2.png
+Kd 0.525710 0.459547 0.362391
+Ks 0.000000 0.000000 0.000000
+
+newmtl material_75
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\pared_calle.png
+Kd 0.574471 0.535631 0.488444
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_76
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\fierro_b.png
+Kd 0.253769 0.234913 0.224923
+Ks 0.012549 0.012549 0.012549
+
+newmtl material_77
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\fierro_b.png
+Kd 0.253769 0.234913 0.224923
+Ks 0.000000 0.000000 0.000000
+
+newmtl material_78
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.808740 0.585009 0.479873
+Ks 0.024982 0.024982 0.024982
+
+newmtl material_79
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Kd 0.200000 0.200000 0.200000
+Ks 0.300000 0.300000 0.300000
+
+newmtl material_8
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\concreto_02.png
+Kd 0.664238 0.676183 0.605603
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_80
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\candil_madera.png
+Kd 0.440030 0.336720 0.237679
+Ks 0.006588 0.006588 0.006588
+
+newmtl material_81
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_metal_viejo_2.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\metal_viejo_2.png
+Kd 0.307363 0.247961 0.201942
+Ks 0.012078 0.012078 0.012078
+
+newmtl material_82
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.058823 0.058823 0.058823
+Ks 0.012078 0.012078 0.012078
+
+newmtl material_83
+Ns 500.000001
+Ka 1.000000 1.000000 1.000000
+Ke 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.200000 0.200000 0.200000
+Ks 0.200000 0.200000 0.200000
+
+newmtl material_84
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_detmoldura_06_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\detmoldura_06_color.png
+Kd 0.668780 0.601436 0.559176
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_85
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_detmoldura_05_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\detmoldura_05_color.png
+Kd 0.656760 0.570094 0.522839
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_86
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_detmoldura_04_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\detmoldura_04_color.png
+Kd 0.693316 0.602297 0.568778
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_87
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_detmoldura_03_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\detmoldura_03_color.png
+Kd 0.661636 0.576116 0.530394
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_88
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_detmoldura_02_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\detmoldura_02_color.png
+Kd 0.681963 0.591600 0.557700
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_89
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_detmoldura_01_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\detmoldura_01_color.png
+Kd 0.681593 0.592948 0.559705
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_9
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\moldura_volado.png
+Kd 0.679826 0.601951 0.569155
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_90
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_escurridera_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\escurridera_color.png
+Kd 0.583157 0.533135 0.507712
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_91
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\rust_a1.png
+Kd 0.456383 0.431604 0.413403
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_92
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\sm_leaf_seca_03b.png
+Kd 0.343598 0.313884 0.253131
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_93
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\sm_leaf_seca_02b.png
+Kd 0.364552 0.326412 0.241130
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_94
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\sm_hoja_c_seca.png
+Kd 0.571608 0.560061 0.424783
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_95
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_marco_puerta_1_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\marco_puerta_1.png
+Kd 0.619302 0.546320 0.509223
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_96
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_madera_barandal_esc_2_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\madera_barandal_esc_2.png
+Kd 0.525710 0.459547 0.362391
+Ks 0.000000 0.000000 0.000000
+
+newmtl material_97
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_mold_arco_01_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\mold_arco_01_color.png
+Kd 0.648315 0.564968 0.533972
+Ks 0.040000 0.040000 0.040000
+
+newmtl material_98
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_molduraterraza_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\molduraterraza__color.png
+Kd 0.645041 0.560917 0.529566
+Ks 0.040000 0.040000 0.040000
+
+newmtl materiald
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_puerta_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\puerta.png
+Kd 0.489388 0.358646 0.241582
+Ks 0.001725 0.001725 0.001725
+
+newmtl materiale
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\Barro_2.png
+Kd 0.557621 0.395229 0.294343
+Ks 0.040000 0.040000 0.040000
+
+newmtl materiali
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_columna_b_displacement_3_inv.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\columna_b_color.png
+Kd 0.595991 0.522243 0.501655
+Ks 0.040000 0.040000 0.040000
+
+newmtl materialn
+Kd 0 0 0
+Ns 18.5613
+
+newmtl materialo
+Kd 0 0 0
+Ns 18.5613
+
+newmtl materialp
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\fuente_piedra_02.png
+Kd 0.369741 0.376804 0.331302
+Ks 0.040000 0.040000 0.040000
+
+newmtl materialq
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\fuente_azulejo.png
+Kd 0.503806 0.556565 0.673015
+Ks 0.000000 0.000000 0.000000
+
+newmtl materialr
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Kd 0.750000 0.750000 0.750000
+Ks 0.040000 0.040000 0.040000
+
+newmtl materials
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_sm_tronco_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\sm_tronco.png
+Kd 0.443822 0.415311 0.385177
+Ks 0.040000 0.040000 0.040000
+
+newmtl materialt
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_sm_leaf_02_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\sm_leaf_02a.png
+Kd 0.284947 0.360574 0.233207
+Ks 0.040000 0.040000 0.040000
+
+newmtl materialu
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_sm_leaf_02_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\sm_leaf_02b.png
+Kd 0.332056 0.359400 0.234933
+Ks 0.040000 0.040000 0.040000
+
+newmtl materialv
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_sm_leaf_02_bump.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\sm_leaf_03a.png
+Kd 0.275610 0.341291 0.252018
+Ks 0.040000 0.040000 0.040000
+
+newmtl materialw
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_bark06mi.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\bark06mi.png
+Kd 0.413574 0.389077 0.382895
+Ks 0.040000 0.040000 0.040000
+
+newmtl materialx
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_l33-upper.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\l33-upper.png
+Kd 0.358342 0.462323 0.208576
+Ks 0.040000 0.040000 0.040000
+
+newmtl materialy
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_l37-upper.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\l37-upper.png
+Kd 0.278058 0.393256 0.177308
+Ks 0.040000 0.040000 0.040000
+
+newmtl materialz
+Ns 15.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\N_l04-upper.png
+map_Kd C:\\Users\\nol\\Downloads\\San_Miguel\\textures\\l04-upper.png
+Kd 0.555346 0.276722 0.125710
+Ks 0.040000 0.040000 0.040000
+
+newmtl mat_fog

@@ -1,0 +1,56 @@
+#CAMERA
+
+TM_ROW0 -0.0       -0.0        0.0 # does nothing
+TM_ROW1  0.0       -0.0        1.0 # up vector
+TM_ROW2 -0.0        1.0       -0.0 # negative forward
+TM_ROW3  0.0     119.74       84.429 # origin (used to be x=6.6754)
+CAMERA_FOV      0.4 # in radians
+CAMERA_TDIST    0.0 # does nothing
+CAMERA_MATERIAL mat_fog
+
+#MEDIA
+
+# https://hal.inria.fr/hal-01970399/file/prevrlMain.pdf
+medium     marble
+absorption 0.01 0.01 0.01
+emission   0.0  0.0  0.0
+scattering 2.0  2.0  2.0
+g          0.0
+
+medium     med_fog
+absorption 0.0002 0.0002 0.0002
+emission   0.0    0.0    0.0
+scattering 0.0008 0.0008 0.0008
+g          0.4
+
+globalMediumID med_fog
+
+#MATERIALS
+
+# ior from calcite
+material M_Statue_Inst
+mirror   0.22 0.22 0.22
+ior      1.486
+mediumId marble
+priority 1
+
+material M_Tree_Branches_Inst
+Ke 0 0 0
+
+material Soul_Tree011M_Inst
+Ke 0 0 0
+
+material M_FirePit_Inst
+Ke 0 0 0
+
+material M_FirePit_Inst_Glow
+Ke 0 0 0
+
+material     mat_fog
+priority     0
+mediumId     med_fog
+geometryType imaginary
+
+# z=200 is median of dome
+light_point 0 0 200 10000 10000 10000
+enclosingMatId mat_fog

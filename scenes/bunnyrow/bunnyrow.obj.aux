@@ -1,0 +1,93 @@
+TM_ROW0 0.0  0.0  0.0 # does nothing
+TM_ROW1 0.0  0.0  1.0 # up
+TM_ROW2 0.0 -1.0  0.0 # negative forward
+TM_ROW3 1.0 -1400.0  2.0 # origin
+CAMERA_FOV   0.1 # in radians
+CAMERA_TDIST 0.0 # does nothing
+
+medium     med000
+absorption 2.0 9.0 9.0
+emission   0.0 0.0 0.0
+scattering 8.0 1.0 1.0
+g          0.9
+
+medium     med001
+absorption 0.4 1.8 1.8
+emission   0.0 0.0 0.0
+scattering 1.6 0.2 0.2
+g          0.9
+
+medium     med002
+absorption 0.2 0.9 0.9
+emission   0.0 0.0 0.0
+scattering 0.8 0.1 0.1
+g          0.9
+
+medium     med003
+absorption 0.04 0.18 0.18
+emission   0.0 0.0 0.0
+scattering 0.16 0.02 0.02
+g          0.9
+
+medium     med004
+absorption 0.02 0.09 0.09
+emission   0.0 0.0 0.0
+scattering 0.08 0.01 0.01
+g          0.9
+
+medium     med005
+absorption 0.01 0.045 0.045
+emission   0.0  0.0  0.0
+scattering 0.04 0.005 0.005
+g          0.9
+
+material mat000
+mediumId med000
+mirror   1.0 1.0 1.0
+ior      1.446
+priority 1
+
+material mat001
+mediumId med001
+mirror   1.0 1.0 1.0
+ior      1.446
+priority 1
+
+material mat002
+mediumId med002
+mirror   1.0 1.0 1.0
+ior      1.446
+priority 1
+
+material mat003
+mediumId med003
+mirror   1.0 1.0 1.0
+ior      1.446
+priority 1
+
+material mat004
+mediumId med004
+mirror   1.0 1.0 1.0
+ior      1.446
+priority 1
+
+material mat005
+mediumId med005
+mirror   1.0 1.0 1.0
+ior      1.446
+priority 1
+
+# (/10 x2) => (x100 /4)
+
+material light0
+Ke 20000 18750 16875
+mirror 0.0 0.0 0.0
+ior 1.0
+
+material light1
+Ke 20000 19750 19500
+mirror 0.0 0.0 0.0
+ior 1.0
+
+# 0.244
+light_background_em 1.0 0.0 rotunda.exr

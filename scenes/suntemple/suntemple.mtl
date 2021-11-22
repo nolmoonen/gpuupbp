@@ -1,0 +1,626 @@
+# Blender MTL File: 'None'
+# Material Count: 48
+
+newmtl M_Arch_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Arch_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Arch_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Arch_Inst_0_Specular.dds
+Kd 0.735113 0.736097 0.701926
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_Arch_Inst_2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Arch_Inst_2_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Arch_Inst_2_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Arch_Inst_2_0_Specular.dds
+Kd 0.730560 0.730303 0.700892
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_Arch_Inst_Red
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Arch_Inst_Red_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Arch_Inst_Red_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Arch_Inst_Red_0_Specular.dds
+Kd 0.775899 0.743115 0.685371
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_Arch_Inst_Red_2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Arch_Inst_Red_2_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Arch_Inst_Red_2_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Arch_Inst_Red_2_0_Specular.dds
+Kd 0.783837 0.758466 0.707850
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_BottomTrim_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_BottomTrim_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_BottomTrim_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_BottomTrim_Inst_0_Specular.dds
+Kd 0.864254 0.839301 0.799478
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_BottomTrim_Inst_Black
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_BottomTrim_Inst_Black_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_BottomTrim_Inst_Black_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_BottomTrim_Inst_Black_0_Specular.dds
+Kd 0.572256 0.465945 0.421087
+Ks 0.420708 0.420708 0.420708
+
+newmtl M_BottomTrim_Inst_UTile4
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_BottomTrim_Inst_UTile4_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_BottomTrim_Inst_UTile4_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_BottomTrim_Inst_UTile4_0_Specular.dds
+Kd 0.858517 0.831991 0.789893
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_Dome_2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Dome_2_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Dome_2_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Dome_2_0_Specular.dds
+Kd 0.795891 0.785086 0.744561
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_Dome_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Dome_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Dome_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Dome_Inst_0_Specular.dds
+Kd 0.795891 0.785086 0.744561
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_FirePit_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_FirePit_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_FirePit_Inst_0_BaseColor.dds
+map_Ke SunTemple\\Textures\\M_FirePit_Inst_0_Emissive.dds
+map_Ks SunTemple\\Textures\\M_FirePit_Inst_0_Specular.dds
+Kd 0.649530 0.646816 0.610123
+Ks 0.863257 0.863257 0.863257
+
+newmtl M_FirePit_Inst_Glow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_FirePit_Inst_Glow_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_FirePit_Inst_Glow_0_BaseColor.dds
+map_Ke SunTemple\\Textures\\M_FirePit_Inst_Glow_0_Emissive.dds
+map_Ks SunTemple\\Textures\\M_FirePit_Inst_Glow_0_Specular.dds
+Kd 0.649530 0.646816 0.610123
+Ks 0.863257 0.863257 0.863257
+
+newmtl M_FirePit_Inst_nofire
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_FirePit_Inst_nofire_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_FirePit_Inst_nofire_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_FirePit_Inst_nofire_0_Specular.dds
+Kd 0.649530 0.646816 0.610123
+Ks 0.863257 0.863257 0.863257
+
+newmtl M_FloorTiles1_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_FloorTiles1_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_FloorTiles1_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_FloorTiles1_Inst_0_Specular.dds
+Kd 0.359639 0.402352 0.411257
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_FloorTiles1_Inst_Blue
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_FloorTiles1_Inst_Blue_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_FloorTiles1_Inst_Blue_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_FloorTiles1_Inst_Blue_0_Specular.dds
+Kd 0.641231 0.602223 0.534294
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_FloorTiles1_Inst_Inst2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_FloorTiles1_Inst_Inst2_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_FloorTiles1_Inst_Inst2_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_FloorTiles1_Inst_Inst2_0_Specular.dds
+Kd 0.468516 0.363125 0.303154
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_FloorTiles2_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_FloorTiles2_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_FloorTiles2_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_FloorTiles2_Inst_0_Specular.dds
+Kd 0.407299 0.437617 0.433352
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_FloorTiles2_Inst_Inst_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_FloorTiles2_Inst_Inst_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_FloorTiles2_Inst_Inst_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_FloorTiles2_Inst_Inst_Inst_0_Specular.dds
+Kd 0.613763 0.563462 0.498382
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_FloorTiles2_Inst_REd
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_FloorTiles2_Inst_REd_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_FloorTiles2_Inst_REd_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_FloorTiles2_Inst_REd_0_Specular.dds
+Kd 0.499232 0.402668 0.348758
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_Pillar_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Pillar_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Pillar_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Pillar_Inst_0_Specular.dds
+Kd 0.576809 0.567971 0.519762
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_Pillar_Inst_Colored
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Pillar_Inst_Colored_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Pillar_Inst_Colored_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Pillar_Inst_Colored_0_Specular.dds
+Kd 0.706042 0.679598 0.595065
+Ks 0.886812 0.886812 0.886812
+
+newmtl M_Railing_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Railing_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Railing_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Railing_Inst_0_Specular.dds
+Kd 0.703052 0.671344 0.623122
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_Rocks_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Rocks_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Rocks_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Rocks_Inst_0_Specular.dds
+Kd 0.133159 0.114567 0.091969
+Ks 0.536639 0.536639 0.536639
+
+newmtl M_Rocks_Inst.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Rocks_Inst_1_Normal.dds
+map_Kd SunTemple\\Textures\\M_Rocks_Inst_1_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Rocks_Inst_1_Specular.dds
+Kd 0.133159 0.114567 0.091969
+Ks 0.536639 0.536639 0.536639
+
+newmtl M_Rocks_Inst.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Rocks_Inst_2_Normal.dds
+map_Kd SunTemple\\Textures\\M_Rocks_Inst_2_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Rocks_Inst_2_Specular.dds
+Kd 0.133159 0.114567 0.091969
+Ks 0.536639 0.536639 0.536639
+
+newmtl M_Shield_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Shield_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Shield_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Shield_Inst_0_Specular.dds
+Kd 0 0 0
+Ks 0.735291 0.703437 0.690873
+
+newmtl M_Soul_Rocks2_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Soul_Rocks2_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Soul_Rocks2_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Soul_Rocks2_Inst_0_Specular.dds
+Kd 0.168399 0.162348 0.112108
+Ks 0.570732 0.570732 0.570732
+
+newmtl M_Soul_Rocks2_Inst.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Soul_Rocks2_Inst_1_Normal.dds
+map_Kd SunTemple\\Textures\\M_Soul_Rocks2_Inst_1_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Soul_Rocks2_Inst_1_Specular.dds
+Kd 0.167978 0.162440 0.112065
+Ks 0.567457 0.567457 0.567457
+
+newmtl M_Soul_Rocks2_Inst.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Soul_Rocks2_Inst_2_Normal.dds
+map_Kd SunTemple\\Textures\\M_Soul_Rocks2_Inst_2_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Soul_Rocks2_Inst_2_Specular.dds
+Kd 0.169136 0.162559 0.113070
+Ks 0.575228 0.575228 0.575228
+
+newmtl M_Soul_Rocks2_Inst.003
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Soul_Rocks2_Inst_3_Normal.dds
+map_Kd SunTemple\\Textures\\M_Soul_Rocks2_Inst_3_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Soul_Rocks2_Inst_3_Specular.dds
+Kd 0.167652 0.162207 0.109486
+Ks 0.550701 0.550701 0.550701
+
+newmtl M_Soul_Rocks2_Inst.004
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Soul_Rocks2_Inst_4_Normal.dds
+map_Kd SunTemple\\Textures\\M_Soul_Rocks2_Inst_4_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Soul_Rocks2_Inst_4_Specular.dds
+Kd 0.168762 0.162813 0.115053
+Ks 0.586178 0.586178 0.586178
+
+newmtl M_Soul_Rocks2_Inst.005
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Soul_Rocks2_Inst_5_Normal.dds
+map_Kd SunTemple\\Textures\\M_Soul_Rocks2_Inst_5_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Soul_Rocks2_Inst_5_Specular.dds
+Kd 0.167978 0.162440 0.112065
+Ks 0.567457 0.567457 0.567457
+
+newmtl M_Soul_Rocks2_Inst.006
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Soul_Rocks2_Inst_6_Normal.dds
+map_Kd SunTemple\\Textures\\M_Soul_Rocks2_Inst_6_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Soul_Rocks2_Inst_6_Specular.dds
+Kd 0.167110 0.162008 0.107070
+Ks 0.541172 0.541172 0.541172
+
+newmtl M_Soul_Rocks2_Inst.007
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Soul_Rocks2_Inst_7_Normal.dds
+map_Kd SunTemple\\Textures\\M_Soul_Rocks2_Inst_7_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Soul_Rocks2_Inst_7_Specular.dds
+Kd 0.167110 0.162008 0.107070
+Ks 0.541172 0.541172 0.541172
+
+newmtl M_Soul_Rocks2_Inst.008
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Soul_Rocks2_Inst_8_Normal.dds
+map_Kd SunTemple\\Textures\\M_Soul_Rocks2_Inst_8_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Soul_Rocks2_Inst_8_Specular.dds
+Kd 0.167110 0.162008 0.107070
+Ks 0.541172 0.541172 0.541172
+
+newmtl M_Soul_Rocks2_Inst.009
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Soul_Rocks2_Inst_9_Normal.dds
+map_Kd SunTemple\\Textures\\M_Soul_Rocks2_Inst_9_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Soul_Rocks2_Inst_9_Specular.dds
+Kd 0.167110 0.162008 0.107070
+Ks 0.541172 0.541172 0.541172
+
+newmtl M_Soul_Rocks2_Inst.010
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Soul_Rocks2_Inst_10_Normal.dds
+map_Kd SunTemple\\Textures\\M_Soul_Rocks2_Inst_10_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Soul_Rocks2_Inst_10_Specular.dds
+Kd 0.167601 0.162119 0.108049
+Ks 0.545872 0.545872 0.545872
+
+newmtl M_Soul_Rocks2_Inst.011
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Soul_Rocks2_Inst_11_Normal.dds
+map_Kd SunTemple\\Textures\\M_Soul_Rocks2_Inst_11_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Soul_Rocks2_Inst_11_Specular.dds
+Kd 0.167110 0.162008 0.107070
+Ks 0.541172 0.541172 0.541172
+
+newmtl M_Soul_Rocks2_Inst.012
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Soul_Rocks2_Inst_12_Normal.dds
+map_Kd SunTemple\\Textures\\M_Soul_Rocks2_Inst_12_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Soul_Rocks2_Inst_12_Specular.dds
+Kd 0.167110 0.162008 0.107070
+Ks 0.541172 0.541172 0.541172
+
+newmtl M_Stairs_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Stairs_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Stairs_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Stairs_Inst_0_Specular.dds
+Kd 0.628426 0.585169 0.524327
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_Statue_Inst
+Kd 0 0 0
+Ns 0
+
+newmtl M_StoneBrickWall_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_StoneBrickWall_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_StoneBrickWall_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_StoneBrickWall_Inst_0_Specular.dds
+Kd 0.818770 0.809431 0.778563
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_StoneCeiling_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_StoneCeiling_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_StoneCeiling_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_StoneCeiling_Inst_0_Specular.dds
+Kd 0.812786 0.796425 0.746621
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_TreeTrunk01_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_TreeTrunk01_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_TreeTrunk01_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_TreeTrunk01_Inst_0_Specular.dds
+Kd 0.194395 0.145582 0.100017
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_Tree_Branches
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Tree_Branches_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Tree_Branches_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Tree_Branches_0_Specular.dds
+map_d SunTemple\\Textures\\M_Tree_Branches_0_BaseColor.dds
+Kd 0.244910 0.273486 0.122328
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_Tree_Branches_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Tree_Branches_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Tree_Branches_Inst_0_BaseColor.dds
+map_Ke SunTemple\\Textures\\M_Tree_Branches_Inst_0_Emissive.dds
+map_Ks SunTemple\\Textures\\M_Tree_Branches_Inst_0_Specular.dds
+map_d SunTemple\\Textures\\M_Tree_Branches_Inst_0_BaseColor.dds
+Kd 0.175338 0.165527 0.033278
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_Trim_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Trim_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Trim_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Trim_Inst_0_Specular.dds
+Kd 0.838528 0.812617 0.770304
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_Trim_Inst_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\M_Trim_Inst_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\M_Trim_Inst_Inst_0_BaseColor.dds
+map_Ks SunTemple\\Textures\\M_Trim_Inst_Inst_0_Specular.dds
+Kd 0.842272 0.822281 0.786986
+Ks 0.000000 0.000000 0.000000
+
+newmtl Soul_Tree011M_Inst
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump SunTemple\\Textures\\Soul_Tree011M_Inst_0_Normal.dds
+map_Kd SunTemple\\Textures\\Soul_Tree011M_Inst_0_BaseColor.dds
+map_Ke SunTemple\\Textures\\Soul_Tree011M_Inst_0_Emissive.dds
+map_Ks SunTemple\\Textures\\Soul_Tree011M_Inst_0_Specular.dds
+map_d SunTemple\\Textures\\Soul_Tree011M_Inst_0_BaseColor.dds
+Kd 0.511088 0.586699 0.281746
+Ks 0.000000 0.000000 0.000000
+
+newmtl mat_fog

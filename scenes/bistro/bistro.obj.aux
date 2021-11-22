@@ -1,0 +1,94 @@
+#CAMERA
+
+TM_ROW0  -0.0         -0.0         0.0    # does nothing
+TM_ROW1   0.0         -0.0         1.0    # up vector
+TM_ROW2  -0.9436528   -0.3249257   0.0    # negative forward
+TM_ROW3 222.32      -242.431     261.2855 # origin
+CAMERA_FOV   0.9 # in radians
+CAMERA_TDIST 0.0       # does nothing
+
+#MEDIA
+
+medium     glass
+absorption 0.05   0.05   0.05
+emission   0.0    0.0    0.0
+scattering 0.0001 0.0001 0.0001
+g          0.0
+
+medium     white_wine
+absorption 0.1   0.08  0.1
+emission   0.0   0.0   0.0
+scattering 0.015 0.02  0.015
+g          0.9
+
+medium     red_wine
+absorption 0.122 0.351 0.402
+emission   0.0   0.0   0.0
+scattering 0.015 0.013 0.011
+g          0.9
+
+medium     milk
+absorption 0.001190 0.000433 0.001492
+emission   0.0      0.0      0.0
+scattering 1.189286 1.332900 1.491045
+g          0.7
+
+#MATERIALS
+
+# all drinking glasses, jars on the counter
+material TransparentGlass
+mirror   1.0 1.0 1.0
+ior      1.520
+mediumId glass
+priority 1
+
+# all wine and spirits bottles on tables and behind bar
+material TransparentGlassWine
+mirror   1.0 1.0 1.0
+ior      1.520
+mediumId glass
+priority 1
+
+# red wine media
+material Red_Wine
+mirror   1.0 1.0 1.0
+ior      1.333
+mediumId red_wine
+priority 2
+
+# white wine media
+material White_Wine
+mirror   1.0 1.0 1.0
+ior      1.333
+mediumId white_wine
+priority 2
+
+# water media
+material Water
+mirror   1.0 1.0 1.0
+ior      1.333
+mediumId milk
+priority 2
+
+# ice cubes in water glass
+material Ice
+mirror   1.0 1.0 1.0
+ior      1.333
+mediumId glass
+priority 3
+
+# beer media (glasses on counter)
+material Beer
+mirror   1.0 1.0 1.0
+ior      1.333
+mediumId red_wine
+priority 2
+
+material light
+Ke 80 75 67.5
+mirror 0.0 0.0 0.0
+ior 1.0
+
+# 0.15 gives a rotation such that the sun is in negative y
+# 0.65 gives light reflecting of buildings
+light_background_em 0.8 0.65 bridge.exr # power scale, rotation

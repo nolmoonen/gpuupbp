@@ -1,0 +1,910 @@
+# Blender MTL File: 'None'
+# Material Count: 74
+
+newmtl Beer
+Kd 0 0 0
+Ns 18.5613
+
+newmtl Cloth
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Cloth_Normal.dds
+map_Kd Textures\\Cloth_BaseColor.dds
+map_Ks Textures\\Cloth_Specular.dds
+Kd 0.667624 0.667798 0.667604
+Ks 0.000000 0.000000 0.000000
+
+newmtl CookieJar_Cookies
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\CookieJar_Cookies_Normal.dds
+map_Kd Textures\\CookieJar_Cookies_BaseColor.dds
+map_Ks Textures\\CookieJar_Cookies_Specular.dds
+Kd 0.868637 0.622807 0.379662
+Ks 0.000000 0.000000 0.000000
+
+newmtl Cutlery_chrome
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Cutlery_chrome_Normal.dds
+map_Kd Textures\\Cutlery_chrome_BaseColor.dds
+map_Ks Textures\\Cutlery_chrome_Specular.dds
+Kd 0 0 0
+Ks 0.913725 0.921569 0.925490
+
+newmtl Cutlery_details
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Cutlery_details_Normal.dds
+map_Kd Textures\\Cutlery_details_BaseColor.dds
+map_Ks Textures\\Cutlery_details_Specular.dds
+Kd 0.313726 0.305882 0.313726
+Ks 0.000000 0.000000 0.000000
+
+newmtl Ice
+Kd 0 0 0
+Ns 18.5613
+
+newmtl Lightbulb
+Ns 179.999996
+Ka 0.500000 0.500000 0.500000
+Ke 0 0 0
+Ni 1.450000
+d 1.000000
+illum 3
+Kd 0 0 0
+Ks 1.000000 0.775459 0.583000
+
+newmtl MASTER_Bistro_Main_Door
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Bistro_Main_Door_Normal.dds
+map_Kd Textures\\MASTER_Bistro_Main_Door_BaseColor.dds
+map_Ks Textures\\MASTER_Bistro_Main_Door_Specular.dds
+Kd 0.271847 0.334097 0.286309
+Ks 0.018216 0.018216 0.018216
+
+newmtl MASTER_Concrete
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Concrete_Normal.dds
+map_Kd Textures\\MASTER_Concrete_BaseColor.dds
+map_Ks Textures\\MASTER_Concrete_Specular.dds
+Kd 0.618615 0.627738 0.616914
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Concrete1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Concrete1_Normal.dds
+map_Kd Textures\\MASTER_Concrete1_BaseColor.dds
+map_Ks Textures\\MASTER_Concrete1_Specular.dds
+Kd 0.391390 0.390242 0.390420
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Concrete_Grooved
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Concrete_Grooved_Normal.dds
+map_Kd Textures\\MASTER_Concrete_Grooved_BaseColor.dds
+map_Ks Textures\\MASTER_Concrete_Grooved_Specular.dds
+Kd 0.477836 0.465458 0.462733
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Concrete_Yellow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Concrete_Yellow_Normal.dds
+map_Kd Textures\\MASTER_Concrete_Yellow_BaseColor.dds
+map_Ks Textures\\MASTER_Concrete_Yellow_Specular.dds
+Kd 0.587381 0.521147 0.340862
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Glass_Exterior
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Glass_Exterior_Normal.dds
+map_Kd Textures\\MASTER_Glass_Exterior_BaseColor.dds
+map_Ks Textures\\MASTER_Glass_Exterior_Specular.dds
+Kd 0.181858 0.182457 0.181858
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Interior_01_Brushed_Metal
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_Brushed_Metal_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_Brushed_Metal_BaseColor.dds
+map_Ks Textures\\MASTER_Interior_01_Brushed_Metal_Specular.dds
+Kd 0 0 0
+Ks 0.684132 0.700199 0.714911
+
+newmtl MASTER_Interior_01_Floor_Tile_Hexagonal_BLENDSHADER
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_Floor_Tile_Hexagonal_BLENDSHADER_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_Floor_Tile_Hexagonal_BLENDSHADER_BaseColor.dds
+map_Ks Textures\\MASTER_Interior_01_Floor_Tile_Hexagonal_BLENDSHADER_Specular.dds
+Kd 0.342960 0.342429 0.347466
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Interior_01_Frozen_Glass
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_Frozen_Glass_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_Frozen_Glass_BaseColor.dds
+map_Ks Textures\\MASTER_Interior_01_Frozen_Glass_Specular.dds
+Kd 0.505882 0.501961 0.505882
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Interior_01_Grid
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_Grid_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_Grid_BaseColor.dds
+map_Ks Textures\\MASTER_Interior_01_Grid_Specular.dds
+Kd 0.505882 0.501961 0.505882
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Interior_01_Grid1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_Grid1_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_Grid1_BaseColor.dds
+map_Ks Textures\\MASTER_Interior_01_Grid1_Specular.dds
+Kd 0 0 0
+Ks 0.119053 0.116409 0.119053
+
+newmtl MASTER_Interior_01_Material
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_Material_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_Material_BaseColor.dds
+map_Ks Textures\\MASTER_Interior_01_Material_Specular.dds
+Kd 0.340985 0.318715 0.288320
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Interior_01_Paris_Bartrim
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_Paris_Bartrim_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_Paris_Bartrim_BaseColor.dds
+map_Ks Textures\\MASTER_Interior_01_Paris_Bartrim_Specular.dds
+Kd 0.309061 0.299798 0.284480
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Interior_01_Paris_Lantern1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0 0 0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_Paris_Lantern_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_Paris_Lantern_BaseColor.dds
+map_Ke Textures\\MASTER_Interior_01_Paris_Lantern_Emissive.dds
+map_Ks Textures\\MASTER_Interior_01_Paris_Lantern_Specular.dds
+map_d Textures\\MASTER_Interior_01_Paris_Lantern_BaseColor.dds
+Kd 0.205290 0.173075 0.131180
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Interior_01_Plaster
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_Plaster_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_Plaster_BaseColor.dds
+map_Ks Textures\\MASTER_Interior_01_Plaster_Specular.dds
+Kd 0.618615 0.627738 0.616914
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Interior_01_Plaster2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_Plaster2_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_Plaster2_BaseColor.dds
+map_Ks Textures\\MASTER_Interior_01_Plaster2_Specular.dds
+Kd 0.618615 0.627738 0.616914
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Interior_01_Plaster_Red
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_Plaster_Red_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_Plaster_Red_BaseColor.dds
+map_Ks Textures\\MASTER_Interior_01_Plaster_Red_Specular.dds
+Kd 0.512189 0.288457 0.247671
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Interior_01_White_Plastic
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_White_Plastic_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_White_Plastic_BaseColor.dds
+map_Ks Textures\\MASTER_Interior_01_White_Plastic_Specular.dds
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Interior_01_Wood
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_Wood_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_Wood_BaseColor.dds
+map_Ks Textures\\MASTER_Interior_01_Wood_Specular.dds
+Kd 0.292373 0.256998 0.227892
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Interior_01_Wooden_stuco
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Interior_01_Wooden_stuco_Normal.dds
+map_Kd Textures\\MASTER_Interior_01_Wooden_stuco_BaseColor.dds
+map_Ks Textures\\MASTER_Interior_01_Wooden_stuco_Specular.dds
+Kd 0.354513 0.354282 0.354513
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Wood_Painted3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Wood_Painted3_Normal.dds
+map_Kd Textures\\MASTER_Wood_Painted3_BaseColor.dds
+map_Ks Textures\\MASTER_Wood_Painted3_Specular.dds
+Kd 0.218319 0.282848 0.233035
+Ks 0.000000 0.000000 0.000000
+
+newmtl MASTER_Wood_Painted3.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\MASTER_Wood_Painted3_Normal.dds
+map_Kd Textures\\MASTER_Wood_Painted3_BaseColor.dds
+map_Ks Textures\\MASTER_Wood_Painted3_Specular.dds
+Kd 0.218319 0.282848 0.233035
+Ks 0.000000 0.000000 0.000000
+
+newmtl Metal_Bronze_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Metal_Bronze_01_Normal.dds
+map_Kd Textures\\Metal_Bronze_01_BaseColor.dds
+map_Ks Textures\\Metal_Bronze_01_Specular.dds
+Kd 0 0 0
+Ks 0.807843 0.698039 0.494118
+
+newmtl Metal_Chrome1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Metal_Chrome1_Normal.dds
+map_Kd Textures\\Metal_Chrome1_BaseColor.dds
+map_Ks Textures\\Metal_Chrome1_Specular.dds
+Kd 0 0 0
+Ks 1.000000 1.000000 1.000000
+
+newmtl Metal_Worn_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Metal_Worn_01_Normal.dds
+map_Kd Textures\\Metal_Worn_01_BaseColor.dds
+map_Ks Textures\\Metal_Worn_01_Specular.dds
+Kd 0 0 0
+Ks 0.648208 0.652048 0.649307
+
+newmtl NapkinHolder_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\NapkinHolder_01_Normal.dds
+map_Kd Textures\\NapkinHolder_01_BaseColor.dds
+map_Ks Textures\\NapkinHolder_01_Specular.dds
+Kd 0.380179 0.333339 0.306631
+Ks 0.000000 0.000000 0.000000
+
+newmtl Paris_BarStool
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_BarStool_Normal.dds
+map_Kd Textures\\Paris_BarStool_BaseColor.dds
+map_Ks Textures\\Paris_BarStool_Specular.dds
+Kd 0.175944 0.106610 0.073209
+Ks 0.000000 0.000000 0.000000
+
+newmtl Paris_Beertap
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Beertap_Normal.dds
+map_Kd Textures\\Paris_Beertap_BaseColor.dds
+map_Ks Textures\\Paris_Beertap_Specular.dds
+Kd 0 0 0
+Ks 0.659024 0.617372 0.540881
+
+newmtl Paris_Cashregister
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Cashregister_Normal.dds
+map_Kd Textures\\Paris_Cashregister_BaseColor.dds
+map_Ks Textures\\Paris_Cashregister_Specular.dds
+Kd 0.560379 0.446108 0.360035
+Ks 0.000000 0.000000 0.000000
+
+newmtl Paris_Cashregister_Buttons
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Cashregister_Buttons_Normal.dds
+map_Kd Textures\\Paris_Cashregister_Buttons_BaseColor.dds
+map_Ks Textures\\Paris_Cashregister_Buttons_Specular.dds
+Kd 0.412734 0.389817 0.371459
+Ks 0.000000 0.000000 0.000000
+
+newmtl Paris_Cashregister_Glass
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Cashregister_Glass_Normal.dds
+map_Kd Textures\\Paris_Cashregister_Glass_BaseColor.dds
+map_Ks Textures\\Paris_Cashregister_Glass_Specular.dds
+Kd 0.181858 0.182457 0.181858
+Ks 0.000000 0.000000 0.000000
+
+newmtl Paris_CeilingFan
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0 0 0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_CeilingFan_Normal.dds
+map_Kd Textures\\Paris_CeilingFan_BaseColor.dds
+map_Ke Textures\\Paris_CeilingFan_Emissive.dds
+map_Ks Textures\\Paris_CeilingFan_Specular.dds
+Kd 0.262096 0.178462 0.129447
+Ks 0.000000 0.000000 0.000000
+
+newmtl Paris_Ceiling_Lamp
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0 0 0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Ceiling_Lamp_Normal.dds
+map_Kd Textures\\Paris_Ceiling_Lamp_BaseColor.dds
+map_Ke Textures\\Paris_Ceiling_Lamp_Emissive.dds
+map_Ks Textures\\Paris_Ceiling_Lamp_Specular.dds
+Kd 0 0 0
+Ks 0.637351 0.631646 0.631366
+
+newmtl Paris_Coasters_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Coasters_01_Normal.dds
+map_Kd Textures\\Paris_Coasters_01_BaseColor.dds
+map_Ks Textures\\Paris_Coasters_01_Specular.dds
+Kd 0.191552 0.143897 0.111255
+Ks 0.000000 0.000000 0.000000
+
+newmtl Paris_Doormat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Doormat_Normal.dds
+map_Kd Textures\\Paris_Doormat_BaseColor.dds
+map_Ks Textures\\Paris_Doormat_Specular.dds
+Kd 0.148251 0.140789 0.141855
+Ks 0.000000 0.000000 0.000000
+
+newmtl Paris_LiquorBottle_01_Caps
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_LiquorBottle_01_Caps_Normal.dds
+map_Kd Textures\\Paris_LiquorBottle_01_Caps_BaseColor.dds
+map_Ks Textures\\Paris_LiquorBottle_01_Caps_Specular.dds
+Kd 0.145268 0.113070 0.122676
+Ks 0.000000 0.000000 0.000000
+
+newmtl Paris_Painting_Metal
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Painting_Metal_Normal.dds
+map_Kd Textures\\Paris_Painting_Metal_BaseColor.dds
+map_Ks Textures\\Paris_Painting_Metal_Specular.dds
+Kd 0 0 0
+Ks 0.619707 0.540248 0.438472
+
+newmtl Paris_Paintings
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Paintings_Normal.dds
+map_Kd Textures\\Paris_Paintings_BaseColor.dds
+map_Ks Textures\\Paris_Paintings_Specular.dds
+Kd 0.475523 0.354538 0.275448
+Ks 0.000000 0.000000 0.000000
+
+newmtl Paris_Paintings_Glass
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Paintings_Glass_Normal.dds
+map_Kd Textures\\Paris_Paintings_Glass_BaseColor.dds
+map_Ks Textures\\Paris_Paintings_Glass_Specular.dds
+Kd 0.181858 0.182457 0.181858
+Ks 0.000000 0.000000 0.000000
+
+newmtl Paris_Radiator
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Radiator_Normal.dds
+map_Kd Textures\\Paris_Radiator_BaseColor.dds
+map_Ks Textures\\Paris_Radiator_Specular.dds
+Kd 0 0 0
+Ks 0.684613 0.603436 0.527369
+
+newmtl Paris_Table_03
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Table_03_Normal.dds
+map_Kd Textures\\Paris_Table_03_BaseColor.dds
+map_Ks Textures\\Paris_Table_03_Specular.dds
+Kd 0.292373 0.256998 0.227892
+Ks 0.000000 0.000000 0.000000
+
+newmtl Paris_Table_cloth_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Table_cloth_01_Normal.dds
+map_Kd Textures\\Paris_Table_cloth_01_BaseColor.dds
+map_d Textures\\Paris_Table_cloth_01_BaseColor.dds
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+
+newmtl Paris_Wall_Bulb_Light
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Wall_Bulb_Light_Normal.dds
+map_Kd Textures\\Paris_Wall_Bulb_Light_BaseColor.dds
+map_Ks Textures\\Paris_Wall_Bulb_Light_Specular.dds
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl Paris_Wall_Light_Interior
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0 0 0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Paris_Wall_Light_Interior_Normal.dds
+map_Kd Textures\\Paris_Wall_Light_Interior_BaseColor.dds
+map_Ke Textures\\Paris_Wall_Light_Interior_Emissive.dds
+map_Ks Textures\\Paris_Wall_Light_Interior_Specular.dds
+Kd 0.398499 0.368086 0.310490
+Ks 0.000000 0.000000 0.000000
+
+newmtl Plants_Metal_Base_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Plants_Metal_Base_01_Normal.dds
+map_Kd Textures\\Plants_Metal_Base_01_BaseColor.dds
+map_Ks Textures\\Plants_Metal_Base_01_Specular.dds
+map_d Textures\\Plants_Metal_Base_01_BaseColor.dds
+Kd 0 0 0
+Ks 0.807843 0.698039 0.494118
+
+newmtl Plants_plants.DoubleSided
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Plants_plants_Normal.dds
+map_Kd Textures\\Plants_plants_BaseColor.dds
+map_Ks Textures\\Plants_plants_Specular.dds
+map_d Textures\\Plants_plants_BaseColor.dds
+Kd 0.327225 0.385460 0.218536
+Ks 0.000000 0.000000 0.000000
+
+newmtl Plastic_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Plastic_01_Normal.dds
+map_Kd Textures\\Plastic_01_BaseColor.dds
+map_Ks Textures\\Plastic_01_Specular.dds
+Kd 0.512815 0.509657 0.512815
+Ks 0.000000 0.000000 0.000000
+
+newmtl Plastic_02
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Plastic_02_Normal.dds
+map_Kd Textures\\Plastic_02_BaseColor.dds
+map_Ks Textures\\Plastic_02_Specular.dds
+Kd 0.512815 0.509657 0.512815
+Ks 0.000000 0.000000 0.000000
+
+newmtl Plates_Ceramic
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Plates_Ceramic_Normal.dds
+map_Kd Textures\\Plates_Ceramic_BaseColor.dds
+map_Ks Textures\\Plates_Ceramic_Specular.dds
+Kd 0.807843 0.815686 0.784314
+Ks 0.000000 0.000000 0.000000
+
+newmtl Plates_Details
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Plates_Details_Normal.dds
+map_Kd Textures\\Plates_Details_BaseColor.dds
+map_Ks Textures\\Plates_Details_Specular.dds
+map_d Textures\\Plates_Details_BaseColor.dds
+Kd 0.798491 0.940914 0.850527
+Ks 0.000000 0.000000 0.000000
+
+newmtl Red_Wine
+Kd 0 0 0
+Ns 18.5613
+
+newmtl Rubber_Bar_Mat_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Rubber_Bar_Mat_01_Normal.dds
+map_Kd Textures\\Rubber_Bar_Mat_01_BaseColor.dds
+map_Ks Textures\\Rubber_Bar_Mat_01_Specular.dds
+Kd 0.103025 0.104926 0.128020
+Ks 0.000000 0.000000 0.000000
+
+newmtl ToffeeJar_Label
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\ToffeeJar_Label_Normal.dds
+map_Kd Textures\\ToffeeJar_Label_BaseColor.dds
+map_Ks Textures\\ToffeeJar_Label_Specular.dds
+Kd 0.279392 0.255039 0.254565
+Ks 0.000000 0.000000 0.000000
+
+newmtl ToffeeJar_Metal
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\ToffeeJar_Metal_Normal.dds
+map_Kd Textures\\ToffeeJar_Metal_BaseColor.dds
+map_Ks Textures\\ToffeeJar_Metal_Specular.dds
+Kd 0 0 0
+Ks 0.042911 0.042895 0.042911
+
+newmtl ToffeeJar_Toffee
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\ToffeeJar_Toffee_Normal.dds
+map_Kd Textures\\ToffeeJar_Toffee_BaseColor.dds
+map_Ks Textures\\ToffeeJar_Toffee_Specular.dds
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl TransparentGlass
+Kd 0 0 0
+Ns 18.5613
+
+newmtl TransparentGlassWine
+Kd 0 0 0
+Ns 18.5613
+
+newmtl Trolley_Plastic
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Trolley_Plastic_Normal.dds
+map_Kd Textures\\Trolley_Plastic_BaseColor.dds
+map_Ks Textures\\Trolley_Plastic_Specular.dds
+Kd 0.512815 0.509657 0.512815
+Ks 0.000000 0.000000 0.000000
+
+newmtl Trolley_Wheels
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Trolley_Wheels_Normal.dds
+map_Kd Textures\\Trolley_Wheels_BaseColor.dds
+map_Ks Textures\\Trolley_Wheels_Specular.dds
+Kd 0.259021 0.368045 0.279050
+Ks 0.000000 0.000000 0.000000
+
+newmtl Trolley_Wood_Painted
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Trolley_Wood_Painted_Normal.dds
+map_Kd Textures\\Trolley_Wood_Painted_BaseColor.dds
+map_Ks Textures\\Trolley_Wood_Painted_Specular.dds
+Kd 0.218319 0.282848 0.233035
+Ks 0.000000 0.000000 0.000000
+
+newmtl Wall_Lamp
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Wall_Lamp_Normal.dds
+map_Kd Textures\\Wall_Lamp_BaseColor.dds
+map_Ks Textures\\Wall_Lamp_Specular.dds
+Kd 0.205290 0.173075 0.131180
+Ks 0.000000 0.000000 0.000000
+
+newmtl Water
+Kd 0 0 0
+Ns 18.5613
+
+newmtl White_Wine
+Kd 0 0 0
+Ns 18.5613
+
+newmtl WickerBasket
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\WickerBasket_Normal.dds
+map_Kd Textures\\WickerBasket_BaseColor.dds
+map_Ks Textures\\WickerBasket_Specular.dds
+Kd 0.656839 0.629552 0.592748
+Ks 0.000000 0.000000 0.000000
+
+newmtl Wood
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Wood_Normal.dds
+map_Kd Textures\\Wood_BaseColor.dds
+map_Ks Textures\\Wood_Specular.dds
+Kd 0.354513 0.354282 0.354513
+Ks 0.000000 0.000000 0.000000
+
+newmtl curtainA
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\curtainA_Normal.dds
+map_Kd Textures\\curtainA_BaseColor.dds
+map_Ks Textures\\curtainA_Specular.dds
+Kd 0.472907 0.164763 0.105139
+Ks 0.000000 0.000000 0.000000
+
+newmtl curtainB1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\curtainB1_Normal.dds
+map_Kd Textures\\curtainB1_BaseColor.dds
+map_Ks Textures\\curtainB1_Specular.dds
+Kd 0.514298 0.164808 0.112315
+Ks 0.000000 0.000000 0.000000
+
+newmtl light
+Kd 0 0 0
+Ns 18.5613

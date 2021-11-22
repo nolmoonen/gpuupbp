@@ -1,0 +1,35 @@
+newmtl mat000
+Kd 0 0 0
+Ns 18.5613
+
+newmtl mat001
+Kd 0 0 0
+Ns 18.5613
+
+newmtl mat002
+Kd 0 0 0
+Ns 18.5613
+
+newmtl mat003
+Kd 0 0 0
+Ns 18.5613
+
+newmtl mat004
+Kd 0 0 0
+Ns 18.5613
+
+newmtl mat005
+Kd 0 0 0
+Ns 18.5613
+
+newmtl background
+Kd 0.4 0.4 0.4
+Ns 18.5613
+
+newmtl light0
+Kd 0 0 0
+Ns 18.5613
+
+newmtl light1
+Kd 0 0 0
+Ns 18.5613

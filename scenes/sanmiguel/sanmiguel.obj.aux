@@ -1,0 +1,116 @@
+TM_ROW0         0.0          0.0       0.0  # does nothing
+TM_ROW1         0.0          0.0       1.0  # up vector
+# sin(108), -cos(108), , degrees
+TM_ROW2         0.9511 0.3090 0.0  # negative forward
+TM_ROW3         25.696 2.3013 1.0469 # origin
+CAMERA_FOV      0.8 # in radians
+CAMERA_TDIST    0.0 # does nothing
+CAMERA_MATERIAL mat_fog
+
+# all media multiplied by 300
+# as the candle is roughly 300 times smaller than stilllife
+
+# mirrorballs fog
+medium     fog
+absorption 0.0 0.0 0.0
+emission   0.0 0.0 0.0
+scattering 0.06 0.045 0.03
+g          0.5
+
+medium     glass
+absorption 15 15 15
+emission   0.0    0.0    0.0
+scattering 0.03 0.03 0.03
+g          0.0
+
+medium     green_glass
+absorption 15   3   15
+emission   0.0    0.0    0.0
+scattering 0.03 0.03 0.03
+g          0.0
+
+medium     yellow_glass
+absorption 15  3   3
+emission   0.0    0.0    0.0
+scattering 0.03 0.03 0.03
+g          0.0
+
+# based on https://cseweb.ucsd.edu/~ravir/dilution.pdf
+medium     water
+absorption 3    3     2.7
+emission   0.0      0.0      0.0
+scattering 0.6    0.6    0.75
+g          0.9
+
+medium     wax
+absorption 9 30 60
+emission   0.0 0.0 0.0
+scattering 450 450 450
+g          0.8
+
+# candle
+material material_035
+mirror   0.60 0.60 0.60
+ior      1.446
+mediumId wax
+priority 3
+
+# candle holder and glasses
+material material_041
+mirror   1.0 1.0 1.0
+ior      1.520
+mediumId glass
+priority 2
+
+# salt shaker container
+material material_042
+mirror   1.0 1.0 1.0
+ior      1.520
+mediumId green_glass
+priority 2
+
+# ashtray
+material material_033
+mirror   1.0 1.0 1.0
+ior      1.520
+mediumId yellow_glass
+priority 2
+
+# fountain water
+material materialo
+mirror   1.0 1.0 1.0
+ior      1.333
+mediumId water
+priority 2
+
+# glass of the windows/doors
+material material_0
+mirror   0.9 0.9 0.9
+ior      1.520
+
+# todo test this with less turbid water
+# bottom of fountain, higher priority than water to persist in intersection
+material materialq
+priority 3
+
+# todo test this with less turbid water
+# rim and middle of fountain, higher priority than water to persist in intersection
+material materialp
+priority 3
+
+# lantern glass
+material materialn
+mirror   1.0 1.0 1.0
+ior      1.520
+
+material     mat_fog
+priority     1
+geometryType imaginary
+mediumId     fog
+
+# lantern lightbulb
+material       material_83
+Ke             800 750 675
+enclosingMatId mat_fog
+
+globalMediumID fog
