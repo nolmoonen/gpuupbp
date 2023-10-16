@@ -1,6 +1,6 @@
 ![image](doc/bunnyrow.png)
 
-GPUUPBP is an OptiX-based GPU implementation of the [unified, points, beams, and paths](https://cs.dartmouth.edu/wjarosz/publications/krivanek14upbp.html) (UPBP) algorithm for robust light simulation in participating media and is the code for the paper "Efficient Hardware Acceleration of Robust Volumetric Light Transport Simulation". GPUUPBP is based on [SmallUPBP](http://www.smallupbp.com/) and makes two main improvements:
+GPUUPBP is an OptiX-based GPU implementation of the [unified, points, beams, and paths](https://cs.dartmouth.edu/wjarosz/publications/krivanek14upbp.html) (UPBP) algorithm for robust light simulation in participating media and is the code for the paper [Efficient Hardware Acceleration of Robust Volumetric Light Transport Simulation](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14802). GPUUPBP is based on [SmallUPBP](http://www.smallupbp.com/) and makes two main improvements:
 
 * The algorithm for computing the multiple importance sampling (MIS) weights is replaced with a new algorithm. Instead of iterating over all vertices of each full path, this new algorithm computes the path weight in constant time by only accessing the vertex data of the subpath ends. This is achieved by formulating the subpath weights in a recursive manner similar to how is done by [SmallVCM](http://www.smallvcm.com/) and as described in its accompanying [technical paper](https://www.iliyan.com/publications/ImplementingVCM).
 * The photon map for photon density estimation of the volumetric B-B1D, P-B2D, and P-P3D estimators, as well as for surface photon mapping are implemented using the RTX bounding volume hierarchy. The entire algorithm is implemented on the GPU with OptiX and the scene intersection routine is accelerated using RTX.
@@ -8,18 +8,19 @@ GPUUPBP is an OptiX-based GPU implementation of the [unified, points, beams, and
 If you find this code useful in your research, please consider citing:
 
 ```
-@article{moonen-jalba-2023,
-  author   = {Moonen, Nol and Jalba, Andrei},
-  title    = {Efficient Hardware Acceleration of Robust Volumetric Light Transport Simulation},
-  journal  = {Computer Graphics Forum},
-  volume   = {},
-  number   = {},
-  pages    = {},
-  keywords = {},
-  doi      = {},
-  url      = {},
-  abstract = {Efficiently simulating the full range of light effects in arbitrary input scenes that contain participating media is a difficult task. Unified points, beams and paths (UPBP) is an algorithm capable of capturing a wide range of media effects, by combining bidirectional path tracing (BPT) and photon density estimation (PDE) with multiple importance sampling (MIS). A computationally expensive task of UPBP is the MIS weight computation, performed each time a light path is formed. We derive an efficient algorithm to compute the MIS weights for UPBP, which improves over previous work by eliminating the need to iterate over the path vertices. We achieve this by maintaining recursive quantities as subpaths are generated, from which the subpath weights can be computed. In this way, the full path weight can be computed by only using the data cached at the two vertices at the ends of the subpaths. Furthermore, a costly part of PDE is the search for nearby photon points and beams. Previous work has shown that a spatial data structure for photon mapping can be implemented using the hardware-accelerated bounding volume hierarchy of NVIDIA’s RTX GPUs. We show that the same technique can be applied to different types of volumetric PDE and compare the performance of these data structures with the state of the art. Finally, using our new algorithm and data structures we fully implement UPBP on the GPU which we, to the best of our knowledge, are the first to do so.},
-  year     = {2023}
+@article{https://doi.org/10.1111/cgf.14802,
+    author   = {Moonen, Nol and Jalba, Andrei C.},
+    title    = {Efficient Hardware Acceleration of Robust Volumetric Light Transport Simulation},
+    journal  = {Computer Graphics Forum},
+    volume   = {42},
+    number   = {6},
+    pages    = {e14802},
+    keywords = {global illumination, novel applications of the GPU, ray tracing, rendering},
+    doi      = {https://doi.org/10.1111/cgf.14802},
+    url      = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14802},
+    eprint   = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14802},
+    abstract = {Abstract Efficiently simulating the full range of light effects in arbitrary input scenes that contain participating media is a difficult task. Unified points, beams and paths (UPBP) is an algorithm capable of capturing a wide range of media effects, by combining bidirectional path tracing (BPT) and photon density estimation (PDE) with multiple importance sampling (MIS). A computationally expensive task of UPBP is the MIS weight computation, performed each time a light path is formed. We derive an efficient algorithm to compute the MIS weights for UPBP, which improves over previous work by eliminating the need to iterate over the path vertices. We achieve this by maintaining recursive quantities as subpaths are generated, from which the subpath weights can be computed. In this way, the full path weight can be computed by only using the data cached at the two vertices at the ends of the subpaths. Furthermore, a costly part of PDE is the search for nearby photon points and beams. Previous work has shown that a spatial data structure for photon mapping can be implemented using the hardware-accelerated bounding volume hierarchy of NVIDIA's RTX GPUs. We show that the same technique can be applied to different types of volumetric PDE and compare the performance of these data structures with the state of the art. Finally, using our new algorithm and data structures we fully implement UPBP on the GPU which we, to the best of our knowledge, are the first to do so.},
+    year     = {2023}
 }
 ```
 
